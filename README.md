@@ -1,2 +1,2 @@
 # prime_numbers_range
-Prime numbers range iteratpr
+Prime numbers range iterator
