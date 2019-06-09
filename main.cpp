@@ -2,7 +2,7 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
-#include <prime_range.h>
+#include "prime_range.h"
 
 using namespace std;
 
